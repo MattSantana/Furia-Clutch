@@ -115,6 +115,3 @@ No Telegram, procure pelo bot chamado **@challengeFuriaClutchBot** e comece a in
   - Comando para exibir **highlights** de partidas recentes.  
 - Criar um **sistema de lembretes**, permitindo que os fãs solicitem notificações sobre partidas futuras diretamente no Telegram.
 
----
-
-Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato! 🚀
