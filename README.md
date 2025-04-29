@@ -114,4 +114,10 @@ No Telegram, procure pelo bot chamado **@challengeFuriaClutchBot** e comece a in
   - Agenda completa dos torneios.  
   - Comando para exibir **highlights** de partidas recentes.  
 - Criar um **sistema de lembretes**, permitindo que os fãs solicitem notificações sobre partidas futuras diretamente no Telegram.
+---
+
+## 🎥 Vídeo de Demonstração
+
+Um vídeo testando o funcionamento do bot está disponível no repositório.  
+Ao clonar o projeto, você pode assistir ao vídeo para ver o bot em ação e entender como os comandos funcionam na prática.
 
