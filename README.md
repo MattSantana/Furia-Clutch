@@ -59,7 +59,7 @@ Antes de executar o bot, é necessário ter os seguintes itens instalados:
 
 O bot já está configurado com o token `7665752409:AAFrH0NqlH2kjZg0N2XzGK-SOyLfYVR5esw` no arquivo `main.py`.  
 Você pode usar esse token pra testar o bot diretamente.  
-No Telegram, procure pelo bot chamado **FURIA CLUTCH** e comece a interagir com ele.
+No Telegram, procure pelo bot chamado **@challengeFuriaClutchBot** e comece a interagir com ele.
 
 ---
 
